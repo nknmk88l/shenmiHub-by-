@@ -34,7 +34,7 @@ local Window = WindUI:CreateWindow({
         
         -- ↓ Optional. You can remove it.
         Thumbnail = {
-            Image = "rbxassetid://114457723265156",
+            Image = "rbxassetid://88664681325135",
             Title = "",
         },
         
@@ -50,7 +50,7 @@ local Window = WindUI:CreateWindow({
 })
             
 Window:Tag({
-    Title = "正式版",
+    Title = "重制版",
     Color = Color3.fromHex("#30ff6a")
 })
 
@@ -111,7 +111,7 @@ local Paragraph = Tab:Paragraph({
 })
 
 local Paragraph = Tab:Paragraph({
-    Title = "黑白脚本卡密:HB_789113",
+    Title = "黑白脚本卡密:HB_7891",
     Desc = "",
     Image = "rbxassetid://81583956354615",
     ImageSize = 42,
